@@ -1,1 +1,1 @@
-# Azure-PANW-EWEgressFW-Infrastructure
+# Azure-PANW-OBEWFW-Infrastructure
